@@ -1,1 +1,1 @@
-heyy my firs git app
+heyy my first git app
